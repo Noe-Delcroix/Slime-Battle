@@ -24,4 +24,4 @@ These bonus are indicated by some colored arrow on the sides of the screen.
 - Orange : ZQSD to move, F to shooter
 - Purple : Arrow keys to move, 0 numpad key to shoot
 
-This project runs on JavaScript using the p5.js library.
+This project runs on JavaScript using the p5.js library. Try it online here : https://editor.p5js.org/Noway/full/9rbkTzoig
